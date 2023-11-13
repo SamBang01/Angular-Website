@@ -1,0 +1,47 @@
+.home-bg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2em 0;
+  background-image: url(../../assets/images/roboticsIndex2.png);
+  background-position :top center;
+  background-size : 100%;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.container-fluid.bg-2 {
+  max-width: 800px; /* Limit the width for better readability */
+  margin: 2em auto;
+  padding: 1em;
+  text-shadow: 1px 1px 2px black;
+}
+
+h3.margin {
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 1em;
+  text-shadow: 1px 1px 2px black;
+}
+
+.intro {
+  font-size: 1.2em;
+  line-height: 1.5;
+  text-shadow: 1px 1px 2px black;
+}
+
+.highlight {
+  font-weight: bold;
+  color:deepskyblue; /* Bootstrap primary color for consistency */
+  text-shadow: 1px 1px 2px black;
+}
+
+.call-to-action a {
+  text-shadow: 1px 1px 2px black;
+  color: deepskyblue; /* Bootstrap primary color for consistency */
+  text-decoration: underline;
+}
