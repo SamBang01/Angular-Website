@@ -5,6 +5,7 @@ a {
   color: #0366d6;
 }
 
+
 code {
   color: #e01a76;
 }
@@ -19,9 +20,9 @@ body {
   margin: 0;
   padding: 0;
   background-image : url(assets/images/bodyBackground.png);
+  cursor :crosshair;
 }
 
 .consolas{
     font-family: Consolas;
 }
-
